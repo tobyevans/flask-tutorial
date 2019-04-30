@@ -4,4 +4,4 @@ app.config["DEBUG"] = True
 
 @app.route("/")
 def hello():
-    return "Hello World with Python !"
+    return "I haz mad hacker skillzzzzz!"
